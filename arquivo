@@ -1,0 +1,24 @@
+Quest˜ ao 1. Fac¸a um algoritmo que recebe dois valores inteiros e mostra o resultado da multiplicac¸˜ ao.
+Quest˜ ao 2. Fazer um algoritmo que leia um n´ umero e mostre o seu antecessor e o seu sucessor.
+Quest˜ ao 3. Fazer um algoritmo que obtenha dois n´umeros inteiros, x e y, mostre o quociente e
+o resto da divis˜ ao inteira entre eles.
+Quest˜ ao 4. Fazer um algoritmo que calcule e mostre:
+a) A soma entre dois n´ umeros
+b) O produto entre eles e
+c) O quociente entre eles.
+Quest˜ ao 5. Fazer um algoritmo que converta cent´ ımetros para polegadas (obs.: 1pol = 2.54cm).
+Quest˜ ao 6. Fac¸a um algoritmo que recebe o valor do raio de um c´ ırculo e apresenta o valor da
+´
+area desse c´ ırculo.
+Quest˜ ao 7. Fazer um algoritmo que calcule e mostre a ´ area e o volume de um cilindro.
+(A =2πr(h+r),V = πr2h)
+Quest˜ ao 8. Escreva um algoritmo que recebe o valor do sal´ario fixo e o total de vendas efetuadas
+por um vendedor de uma loja durante o mˆes (em dinheiro). Sabendo que este vendedor ganha
+15% de comiss˜ ao sobre suas vendas efetuadas, informar o sal´ ario fixo e sal´ ario no final do mˆ es.
+Quest˜ ao 9. Ler dois valores para as vari´ aveis A e B, e efetuar as trocas dos valores de forma
+que a vari´ avel A passe a possuir o valor da vari´ avel B e a vari´ avel B passe a possuir o valor da
+vari´ avel A. Apresentar os valores trocados.
+Quest˜ ao 10. Fac¸a um algoritmo que mostra a quantidade de c´ edulas de um caixa eletrˆ onico de
+umbanco. O algoritmo recebe como entrada o valor inteiro a ser sacado pelo cliente, em seguida
+apresente a quantidade de cada c´edula que o cliente dever´ a receber, de forma que a quantidade
+de c´ edulas seja o menor poss´ ıvel.
